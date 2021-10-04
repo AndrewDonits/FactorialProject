@@ -12,7 +12,7 @@ public class Main {
 
     }
 
-    public static long func (long n) {
+    public static long func (int n) {
         if (n <= 1)
             return n;
         else
